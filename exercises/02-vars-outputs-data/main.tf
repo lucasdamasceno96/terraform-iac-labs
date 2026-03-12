@@ -5,7 +5,15 @@ terraform {
       version = "~> 6.0"
     }
   }
+  # O "Cadeado" e a "Memória" agora ficam na nuvem
+  backend "gcs" {
+    bucket = "tf-state-ldp21k-1773332471"
+    prefix = "terraform/exercises/02-vars-outputs-data"
+  }
 }
+
+
+
 
 provider "google" {
   project = var.project_id

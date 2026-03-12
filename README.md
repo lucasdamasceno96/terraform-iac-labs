@@ -20,19 +20,23 @@ The project follows a Mono-Repo structure organized by technical exercises:
 - [Terraform CLI](https://developer.hashicorp.com/terraform/downloads) (v1.0+)
 - GCP Account with an active Project.
 
-## 📜 Study Roadmap (Exam 004 Mapping)
+---
 
-1. **Ex-01:** IaC Fundamentals & GCP Setup (Topic 1)
-2. **Ex-02:** Terraform Basics & Providers (Topic 2 & 3)
-3. **Ex-03:** Variables, Outputs, and Data Sources (Topic 8)
-4. **Ex-04:** State Management & Remote Backends (Topic 7)
-5. **Ex-05:** The Core Workflow (Init, Plan, Apply, Destroy) (Topic 6)
-6. **Ex-06:** Modules for GCP (Topic 5)
-7. **Ex-07:** Functions, Expressions & Dynamic Blocks (Topic 8)
-8. **Ex-08:** Advanced State (Import, Move, Drift) (Topic 4 & 7)
-9. **Ex-09:** Terraform Cloud/HCP Fundamentals (Topic 9)
-10. **Ex-10:** Final Certification Mock Exam
+## Here is the **English version** of your text (keeping the structure clear and natural for documentation or prompts):
 
-## ⚠️ Important Note
+## 📜 New Roadmap: GCP-Terraform-Ascend Project
+
+| Folder                      | Exercise                                | Exam Topics (Exam 004) | Status       |
+| --------------------------- | --------------------------------------- | ---------------------- | ------------ |
+| **01-iac-fundamentals**     | Fundamentals & GCP Setup                | 1, 2 and 3             | ✅ Completed |
+| **02-vars-outputs-data**    | Variables, Outputs, Data & Backend      | 7 and 8                | ✅ Completed |
+| **03-workspaces-lifecycle** | **Workspaces & Resource Lifecycle**     | **6.1, 6.2 and 8.2**   | 🚀 **Next**  |
+| **04-terraform-modules**    | Modules (Local & Registry)              | 5.1, 5.2 and 5.3       | ⏳ Pending   |
+| **05-functions-dynamic**    | Functions, Expressions & Dynamic Blocks | 8.1, 8.4 and 8.5       | ⏳ Pending   |
+| **06-advanced-state**       | State Import, Move and Drift            | 4.1 and 7.2            | ⏳ Pending   |
+| **07-terraform-cloud**      | HCP Terraform Fundamentals              | 9.1, 9.2 and 9.3       | ⏳ Pending   |
+| **08-final-review**         | Complete Mock Exam & Review             | All Topics             | ⏳ Pending   |
+
+---
 
 **ALWAYS** run `terraform destroy` after finishing an exercise to avoid unexpected costs in your GCP account.
