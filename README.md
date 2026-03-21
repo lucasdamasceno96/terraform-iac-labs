@@ -26,16 +26,16 @@ The project follows a Mono-Repo structure organized by technical exercises:
 
 ## 📜 New Roadmap: GCP-Terraform-Ascend Project
 
-| Folder                      | Exercise                                | Exam Topics (Exam 004) | Status       |
-| --------------------------- | --------------------------------------- | ---------------------- | ------------ |
-| **01-iac-fundamentals**     | Fundamentals & GCP Setup                | 1, 2 and 3             | ✅ Completed |
-| **02-vars-outputs-data**    | Variables, Outputs, Data & Backend      | 7 and 8                | ✅ Completed |
-| **03-workspaces-lifecycle** | **Workspaces & Resource Lifecycle**     | **6.1, 6.2 and 8.2**   | 🚀 **Next**  |
-| **04-terraform-modules**    | Modules (Local & Registry)              | 5.1, 5.2 and 5.3       | ⏳ Pending   |
-| **05-functions-dynamic**    | Functions, Expressions & Dynamic Blocks | 8.1, 8.4 and 8.5       | ⏳ Pending   |
-| **06-advanced-state**       | State Import, Move and Drift            | 4.1 and 7.2            | ⏳ Pending   |
-| **07-terraform-cloud**      | HCP Terraform Fundamentals              | 9.1, 9.2 and 9.3       | ⏳ Pending   |
-| **08-final-review**         | Complete Mock Exam & Review             | All Topics             | ⏳ Pending   |
+| Folder                      | Exercise                                | Exam Topics (Exam 004) | Status           |
+| --------------------------- | --------------------------------------- | ---------------------- | ---------------- |
+| **01-iac-fundamentals**     | Fundamentals & GCP Setup                | 1, 2 and 3             | ✅ Completed     |
+| **02-vars-outputs-data**    | Variables, Outputs, Data & Backend      | 7 and 8                | ✅ Completed     |
+| **03-workspaces-lifecycle** | **Workspaces & Resource Lifecycle**     | **6.1, 6.2 and 8.2**   | ✅ **Completed** |
+| **04-terraform-modules**    | Modules (Local & Registry)              | 5.1, 5.2 and 5.3       | ✅ **Completed** |
+| **05-functions-dynamic**    | Functions, Expressions & Dynamic Blocks | 8.1, 8.4 and 8.5       | ✅ **Completed** |
+| **06-advanced-state**       | State Import, Move and Drift            | 4.1 and 7.2            | ✅ **Completed** |
+| **07-terraform-cloud**      | HCP Terraform Fundamentals              | 9.1, 9.2 and 9.3       | ✅ **Completed** |
+| **08-final-review**         | Complete Mock Exam & Review             | All Topics             | ✅ **Completed** |
 
 ---
 
