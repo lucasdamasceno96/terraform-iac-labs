@@ -27,3 +27,6 @@ terraform.rc
 
 # Ignore GCP Service Account Keys (Safety first!)
 *.json
+
+# temp.md
+temp.md
